@@ -13,12 +13,12 @@
 * It tells us how much out of actual negative result how many our model predicted as negative
 #### Accuracy:-
 correct predictions / total predictions
-#### Precision**:-
+#### Precision:-
 True positive / total positive predictions = TP / (TP + FP)
 * It tells how much positive predictions are true
 * predictions is the base line
 * Of all the items I predicted were positive, how many were actually positive?
-#### Recall**:-
+#### Recall:-
 True Positive / actual true = TP / (TP + FN)
 * It tells how much predictions are true out of how much are actualy true
 * actual truth is the base line
